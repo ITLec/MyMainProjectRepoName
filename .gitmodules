@@ -1,3 +1,6 @@
 [submodule "MyProjectRepoName"]
 	path = MyProjectRepoName
 	url = https://github.com/itlec/MyProjectRepoName.git
+[submodule "submodule/MyProjectRepoName"]
+	path = submodule/MyProjectRepoName
+	url = https://github.com/itlec/MyProjectRepoName.git
