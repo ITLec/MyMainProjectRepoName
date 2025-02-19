@@ -1,0 +1,3 @@
+[submodule "MyProjectRepoName"]
+	path = MyProjectRepoName
+	url = https://github.com/itlec/MyProjectRepoName.git
